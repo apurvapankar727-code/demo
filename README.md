@@ -1,4 +1,4 @@
 # demo
 This is my second git repository
 <br>
-Author - Apurva Pankar
+Author - Apurva (Student)
